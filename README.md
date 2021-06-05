@@ -13,7 +13,7 @@ Passionate about software development, learning and experiencing new things 🤓
 <img align="left" width="36px" src="https://user-images.githubusercontent.com/57855070/98302169-9c398b00-1fc4-11eb-9734-1c075d91db98.png"/>
 <img align="left" width="36px" src="https://user-images.githubusercontent.com/57855070/98302891-e8d19600-1fc5-11eb-88ff-96a990f80521.png"/>
 <img align="left" width="36px" src="https://user-images.githubusercontent.com/57855070/98302338-e1f65380-1fc4-11eb-95ae-ad38f2c4fc13.png"/> 
-<img align="left" width="36px" src="https://www.avenga.com/wp-content/uploads/2020/11/C-Sharp.png"/> 
+<img align="left" width="36px" src="https://pluralsight.imgix.net/paths/path-icons/csharp-e7b8fcd4ce.png"/> 
 <br />
 
 <br />
