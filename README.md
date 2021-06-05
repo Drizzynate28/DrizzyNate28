@@ -9,11 +9,11 @@ Passionate about software development, learning and experiencing new things 🤓
 
 #### Programming Languages 🚀
 
-<img align="left" width="36px" src="https://user-images.githubusercontent.com/57855070/98301894-33521300-1fc4-11eb-860e-f06c2a2e9dce.png"/>
-<img align="left" width="36px" src="https://user-images.githubusercontent.com/57855070/98302169-9c398b00-1fc4-11eb-9734-1c075d91db98.png"/>
 <img align="left" width="36px" src="https://user-images.githubusercontent.com/57855070/98302891-e8d19600-1fc5-11eb-88ff-96a990f80521.png"/>
 <img align="left" width="36px" src="https://user-images.githubusercontent.com/57855070/98302338-e1f65380-1fc4-11eb-95ae-ad38f2c4fc13.png"/> 
 <img align="left" width="36px" src="https://camo.githubusercontent.com/52045ed9d775b4ac9286e51c28b878edca6bb1750815b423c8d06c7976040ab7/68747470733a2f2f6d617274696e63686176657a2e6769746875622e696f2f4173736574732f4c6f676f732f6373686172702e737667"/> 
+<img align="left" width="36px" src="https://user-images.githubusercontent.com/57855070/98301894-33521300-1fc4-11eb-860e-f06c2a2e9dce.png"/>
+<img align="left" width="36px" src="https://user-images.githubusercontent.com/57855070/98302169-9c398b00-1fc4-11eb-9734-1c075d91db98.png"/>
 <img align="left" width="36px" src="https://regency.capital/wp-content/uploads/2020/04/flutter-logo.png"/> 
 <img align="left" width="36px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png"/> 
 <br />
