@@ -25,7 +25,6 @@ Passionate about software development, learning and experiencing new things 🤓
 <img align="left" width="36px" src="https://d2cnjxvu6pstmv.cloudfront.net/wp-content/uploads/2018/01/22135721/azure_icon.png"/>
 <img align="left" width="36px" src="https://user-images.githubusercontent.com/57855070/98332575-94e7a100-2007-11eb-9c2b-81ad2d1d04f1.png"/>
 <img align="left" width="36px" src="https://user-images.githubusercontent.com/57855070/98332622-ad57bb80-2007-11eb-8ecb-9bd68aefeef6.png"/> 
-<img align="left" width="36px" src="https://user-images.githubusercontent.com/57855070/98332622-ad57bb80-2007-11eb-8ecb-9bd68aefeef6.png"/> 
 <br />
 
  
