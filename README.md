@@ -24,7 +24,7 @@ Passionate about software development, learning and experiencing new things 🤓
 
 <img align="left" width="36px" src="https://user-images.githubusercontent.com/57855070/98331898-3a017a00-2006-11eb-938a-eb22d38f9f57.png"/>
 <img align="left" width="36px" src="https://d33wubrfki0l68.cloudfront.net/6819a0fed8cb9945e11bf4b271100bd405533c73/de933/assets/images/blog/appium-logo.png"/>
-<img align="left" width="36px" src="https://banner2.cleanpng.com/20190320/rpt/kisspng-selenium-test-automation-software-testing-computer-5c9268a4a0bbe2.8617172015530989166584.jpg"/>
+<img align="left" width="36px" src="http://rzine.fr/publication/20200316_rselenium_turorial/featured.png"/>
 <img align="left" width="36px" src="https://d2cnjxvu6pstmv.cloudfront.net/wp-content/uploads/2018/01/22135721/azure_icon.png"/>
 <img align="left" width="36px" src="https://user-images.githubusercontent.com/57855070/98332575-94e7a100-2007-11eb-9c2b-81ad2d1d04f1.png"/>
 <img align="left" width="36px" src="https://user-images.githubusercontent.com/57855070/98332622-ad57bb80-2007-11eb-8ecb-9bd68aefeef6.png"/> 
