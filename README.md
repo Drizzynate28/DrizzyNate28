@@ -1,4 +1,4 @@
-## Hi, I'm Natanel Endelshtein <img width="128" alt="_קובץ מאת tomlatin (1)" src="https://web.whatsapp.com/4cc08e07-3b4e-4660-917d-dcfe48231196">
+## Hi, I'm Natanel Endelshtein <img width="128"src="https://web.whatsapp.com/4cc08e07-3b4e-4660-917d-dcfe48231196">
 
 I'm currently a third year student in computer science at Ruppin Academic Center 💻
 
