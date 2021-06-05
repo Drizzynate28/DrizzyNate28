@@ -14,6 +14,8 @@ Passionate about software development, learning and experiencing new things 🤓
 <img align="left" width="36px" src="https://user-images.githubusercontent.com/57855070/98302891-e8d19600-1fc5-11eb-88ff-96a990f80521.png"/>
 <img align="left" width="36px" src="https://user-images.githubusercontent.com/57855070/98302338-e1f65380-1fc4-11eb-95ae-ad38f2c4fc13.png"/> 
 <img align="left" width="36px" src="https://camo.githubusercontent.com/52045ed9d775b4ac9286e51c28b878edca6bb1750815b423c8d06c7976040ab7/68747470733a2f2f6d617274696e63686176657a2e6769746875622e696f2f4173736574732f4c6f676f732f6373686172702e737667"/> 
+<img align="left" width="36px" src="https://regency.capital/wp-content/uploads/2020/04/flutter-logo.png"/> 
+<img align="left" width="36px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png"/> 
 <br />
 
 <br />
@@ -25,6 +27,7 @@ Passionate about software development, learning and experiencing new things 🤓
 <img align="left" width="36px" src="https://d2cnjxvu6pstmv.cloudfront.net/wp-content/uploads/2018/01/22135721/azure_icon.png"/>
 <img align="left" width="36px" src="https://user-images.githubusercontent.com/57855070/98332575-94e7a100-2007-11eb-9c2b-81ad2d1d04f1.png"/>
 <img align="left" width="36px" src="https://user-images.githubusercontent.com/57855070/98332622-ad57bb80-2007-11eb-8ecb-9bd68aefeef6.png"/> 
+<img align="left" width="36px" src="https://cloudblogs.microsoft.com/uploads/prod/sites/32/2020/05/SQL.png"/> 
 <br />
 
  
