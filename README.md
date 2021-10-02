@@ -1,6 +1,6 @@
 ## Hi, I'm Natanel Endelshtein
 
-I'm currently a third year student in computer science at Ruppin Academic Center 💻
+I Have B.Sc. Degree in computer science from Ruppin Academic Center 💻
 
 Curious, fast learning and motivated individual, with a technical and a “get things done” kind of attitude.
 Passionate about software development, learning and experiencing new things 🤓.
