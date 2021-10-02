@@ -5,7 +5,7 @@ I'm currently a third year student in computer science at Ruppin Academic Center
 Curious, fast learning and motivated individual, with a technical and a “get things done” kind of attitude.
 Passionate about software development, learning and experiencing new things 🤓.
  
-##  I’m currently working In MSD Labs as Automation Developer 🔭
+##  I’m currently working In Payoneer as Junior Software Developer 🔭
 
 #### Programming Languages 🚀
 
